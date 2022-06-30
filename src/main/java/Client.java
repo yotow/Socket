@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Main {
+public class Client {
 
     public static void main(String[] args) {
         String host = "netology.homework";
